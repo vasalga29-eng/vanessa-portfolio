@@ -1,0 +1,160 @@
+---
+title: ""
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    title-block-banner: false
+---
+
+::: {.page-hero}
+# Reflection & Appendix
+
+[A candid account of my process, my use of LLMs, and the annotated drafts behind this website.]{.page-subtitle}
+:::
+
+::: {.content-area}
+
+---
+
+## Reflection: Building with LLMs — What I Learned
+
+::: {.reflection-body}
+
+When I completed Assignment 1, I had a working single-page portfolio — technically functional, personally meaningful, but narrow in scope. Expanding it into a multi-page website pushed me in directions I did not anticipate, and much of that growth came from how I learned to work *with* LLMs, rather than simply asking them for content.
+
+**What improved as I added pages**
+
+The first thing I noticed was that LLMs became more useful as I gave them more context. In Assignment 1, I was asking fairly generic questions: *"Can you help me write a bio for a nutritionist?"* The output was smooth but generic — the kind of professionally worded text that could belong to anyone. As I built out subsequent pages, I started anchoring every prompt with specifics: my clinical background in the NICU milk bank, my 14 years managing vending machine operations, my ongoing MBA with its focus on AI. The LLM's suggestions became sharper and more distinctive. I learned that **the quality of the output is directly proportional to the quality of the context you provide.**
+
+For the Projects page, I asked the LLM to help me structure each case study using a consistent framework: gap identification, evidence base, design for real people, measurement, and documentation. The LLM proposed this structure; I refined it by asking myself, *"Does this actually reflect how I work?"* — and found that it did, with small revisions. The LLM became a mirror that helped me articulate implicit practices I had never consciously named.
+
+**Authenticity and accuracy**
+
+One consistent challenge was ensuring the site remained *mine*, not a polished but hollow AI artefact. My approach was to treat every LLM-generated draft as raw material, not finished product. I read every sentence against my own memory and asked: *Did this actually happen? Would I say this?* Several times I caught the LLM projecting credentials or experiences I did not have — for example, overstating the scale of my clinical consulting practice or adding metrics I could not verify. I removed these every time, even when they made the text sound more impressive. Credibility matters more than polish.
+
+For the references section on the Projects page, I identified the key academic areas (sports nutrition position statements, WHO infant feeding guidelines) and then verified each citation independently before including it. I did not rely on the LLM to generate accurate citations — that is a known weakness.
+
+**What I would do differently**
+
+If I were to start this process again, I would create a personal fact-sheet at the very beginning — a bullet-point document of every verifiable fact about my career, education, and projects — and share it with the LLM as context at the start of every session. This would have saved time spent correcting inaccuracies and would have made the LLM's contributions more grounded from the outset.
+
+I would also explore Quarto's built-in theming more deeply before building a fully custom CSS file. The custom approach gave me precise control, but it also introduced maintenance complexity. For a future project, a Quarto theme as a base with targeted overrides might be a more sustainable approach.
+
+**The bigger picture**
+
+This project has changed how I think about LLMs as a professional tool. They are not a shortcut to content — they are a **thinking partner**. The best interactions felt like conversations with a knowledgeable colleague who does not know me personally: they can suggest frameworks, generate options, and refine language, but they need me to supply the truth, the judgement, and the authenticity. That division of labour, when managed well, produces work that is better than either party could create alone.
+
+*Word count: approximately 520 words.*
+:::
+
+---
+
+## Appendix: LLM Site Map Draft — Annotated
+
+The following section documents the initial site map and section outlines generated with LLM assistance, annotated to show where I accepted, revised, or rejected suggestions.
+
+---
+
+### A1 — Initial LLM-Generated Site Map
+
+::: {.appendix-block}
+[LLM Output — Site Map Proposal]{.llm-label}
+
+Proposed site structure for an MBA-level nutrition professional portfolio:
+
+1. **Home / About** — Hero section with photo, tagline, short bio, key stats. Contact strip.  
+2. **Résumé / CV** — Full work history, education, certifications. Downloadable PDF button.  
+3. **Projects / Case Studies** — 3–4 signature projects with structured descriptions. Academic projects section.  
+4. **Skills & Certifications** — Skill tags by domain, certifications with details, languages.  
+5. **Contact** — Contact details, availability status, what you're looking for.  
+6. **Optional: Leadership & Community** — Volunteering, community engagement, mentoring.  
+7. **Optional: Reflection / Appendix** — For academic portfolio assignments.
+:::
+
+::: {.revision-note}
+[My Revision:]{.rev-label} I accepted the 5-page core structure almost exactly. I chose to **merge the Leadership/Community content into the Home page timeline** rather than give it a separate page — the volume of content did not justify a standalone page. I added the **Reflection & Appendix** page (Item 7) since it is an assignment requirement. I removed a suggested "Publications" page since I do not yet have published academic work.
+:::
+
+---
+
+### A2 — LLM Draft: Home Page Bio
+
+::: {.appendix-block}
+[LLM Output — Home Page Bio Draft]{.llm-label}
+
+*"I am a dedicated Nutrition and Food Service professional with over a decade of experience in clinical nutrition, food safety management, and vending machine operations. My career spans hospital settings, community clinics, athletic programs, and commercial food service — giving me a uniquely interdisciplinary perspective on how food, health, and business intersect. Currently pursuing my MBA with a focus on AI and machine learning at University Canada West, I am committed to bringing evidence-based nutrition into the modern world of data-driven healthcare and food service innovation. I am bilingual in Portuguese and English and am available for roles across healthcare, food service operations, and nutrition consulting."*
+:::
+
+::: {.revision-note}
+[My Revision:]{.rev-label} The LLM draft was competent but impersonal — it read like a professional summary template. I rewrote it to open with a specific narrative: the idea of *"bridging worlds"*, beginning in the NICU milk bank and moving through vending operations to an MBA. I kept the structure (experience → MBA → Canada transition) but added emotional specificity. I also removed "bilingual" since I speak three languages, not two.
+:::
+
+---
+
+### A3 — LLM Draft: Projects Framework
+
+::: {.appendix-block}
+[LLM Output — Case Study Structure Proposal]{.llm-label}
+
+Suggested structure for each project entry:
+
+- **Category/Tag** (e.g., Clinical, Sports Nutrition, Community)
+- **Project Title**
+- **Challenge** — What problem was being solved?
+- **Approach** — What methods/tools/frameworks were used?
+- **Outcomes** — What measurable results were achieved?
+- **Reflection** — What did you learn? How would you do it differently?
+:::
+
+::: {.revision-note}
+[My Revision:]{.rev-label} I liked this framework but adapted it for my context. Because many of my projects were practicum or community-based (not corporate projects with quantified KPIs), I replaced "Challenge/Approach/Outcomes" with "Key Outcomes" (a bullet list) and "Approach" (a prose paragraph). This felt more honest for clinical and educational work where impact is harder to quantify numerically. I removed the "Reflection" field from individual cards to avoid repetition with this standalone page.
+:::
+
+---
+
+### A4 — LLM Draft: Skills Page Structure
+
+::: {.appendix-block}
+[LLM Output — Skills Page Proposal]{.llm-label}
+
+Recommended sections:
+
+1. Skill areas as tag clouds organised by domain
+2. Certifications as cards with issuer, date, and brief description
+3. Language proficiency displayed visually (progress bars or dot indicators)
+4. Professional development narrative ("What I'm currently learning")
+:::
+
+::: {.revision-note}
+[My Revision:]{.rev-label} I accepted this structure entirely and implemented it. I chose **dot indicators** over progress bars for languages because progress bars imply a numeric precision that does not exist in language proficiency — dots felt more honest. I added a fifth section ("Tools & Technologies") that the LLM had not suggested, because my Quarto/VS Code skills developed during this assignment and are genuinely part of my professional toolkit now.
+:::
+
+---
+
+### A5 — Rejected LLM Suggestions
+
+The following suggestions were generated but **not included** in the final site:
+
+::: {.appendix-block}
+[LLM Suggestion — Rejected]{.llm-label}
+
+- A "Testimonials" section with quoted client or colleague endorsements.
+- A "Publications & Speaking" page listing academic papers and conference talks.
+- A blog/news section with regular nutrition content updates.
+- A "Consulting Services" page with a pricing table.
+:::
+
+::: {.revision-note}
+[Reason for Rejection:]{.rev-label} **Testimonials** — I do not yet have documented testimonials I could use for a public portfolio. Adding fabricated or paraphrased quotes would undermine authenticity. **Publications** — I have no published academic work to list at this time. **Blog** — A blog requires ongoing maintenance; I am not in a position to commit to that during my MBA. **Consulting pricing** — Premature; I am not currently offering formal consulting services in Canada while establishing my credentials here.
+:::
+
+---
+
+::: {style="text-align:center;margin-top:3rem;color:var(--light-mid);font-size:0.85rem;"}
+© 2026 Vanessa Santos Salgado A. Marques · MBA Portfolio Assignment 2 · University Canada West
+:::
+
+:::

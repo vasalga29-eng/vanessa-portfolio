@@ -1,0 +1,241 @@
+---
+title: ""
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    title-block-banner: false
+---
+
+::: {.page-hero}
+# Skills & Certifications
+
+[A comprehensive view of my technical competencies and credentials.]{.page-subtitle}
+:::
+
+::: {.content-area}
+
+---
+
+## Core Skill Areas
+
+::: {.skills-grid}
+
+::: {.skill-category-card}
+### 🛡 Food Safety & Operations
+
+::: {.skill-tags}
+[HACCP]{.skill-tag}
+[Regulatory Compliance]{.skill-tag}
+[Risk Management]{.skill-tag}
+[Quality Assurance]{.skill-tag}
+[FoodSafe Level 2 (BC)]{.skill-tag}
+[Product Rotation & Inventory]{.skill-tag}
+[Supplier Management]{.skill-tag}
+[Temperature Control]{.skill-tag}
+[Contamination Prevention]{.skill-tag}
+:::
+:::
+
+::: {.skill-category-card}
+### 🥗 Clinical & Sports Nutrition
+
+::: {.skill-tags}
+[Medical Nutrition Therapy]{.skill-tag}
+[Anthropometric Assessment]{.skill-tag}
+[Bioimpedance Analysis]{.skill-tag}
+[Sports Nutrition]{.skill-tag}
+[Breastfeeding Education]{.skill-tag}
+[NICU Nutrition Support]{.skill-tag}
+[Allergen Management]{.skill-tag}
+[Meal Planning]{.skill-tag}
+[Patient Counselling]{.skill-tag}
+[Motivational Interviewing]{.skill-tag}
+:::
+:::
+
+::: {.skill-category-card}
+### 🤖 AI, Business & Leadership
+
+::: {.skill-tags}
+[AI Integration Strategy]{.skill-tag}
+[Machine Learning Concepts]{.skill-tag}
+[Operations Management]{.skill-tag}
+[Staff Training & Development]{.skill-tag}
+[Performance Metrics]{.skill-tag}
+[Sales Data Analysis]{.skill-tag}
+[Strategic Planning]{.skill-tag}
+[Project Coordination]{.skill-tag}
+[LLM-Assisted Workflows]{.skill-tag}
+:::
+:::
+
+::: {.skill-category-card}
+### 📋 Tools & Technologies
+
+::: {.skill-tags}
+[Quarto / R Markdown]{.skill-tag}
+[Microsoft Office Suite]{.skill-tag}
+[Data Reporting & Dashboards]{.skill-tag}
+[Dietary Analysis Software]{.skill-tag}
+[Visual Studio Code]{.skill-tag}
+[HTML / CSS (Basic)]{.skill-tag}
+[Prompt Engineering]{.skill-tag}
+:::
+:::
+
+:::
+
+---
+
+## Certifications & Credentials
+
+::: {.cert-card}
+::: {.cert-icon}
+🛡
+:::
+::: {}
+::: {.cert-title}
+FoodSafe Level 2
+:::
+::: {.cert-org}
+BC Centre for Disease Control (BCCDC) — British Columbia, Canada
+:::
+::: {.cert-year}
+Active · Advanced food safety certification for supervisory roles in BC food service
+:::
+:::
+:::
+
+::: {.cert-card}
+::: {.cert-icon}
+🏋
+:::
+::: {}
+::: {.cert-title}
+Functional Sports Nutrition Certificate
+:::
+::: {.cert-org}
+Brazil
+:::
+::: {.cert-year}
+Completed · Evidence-based sports nutrition for recreational and competitive athletes
+:::
+:::
+:::
+
+::: {.cert-card}
+::: {.cert-icon}
+📊
+:::
+::: {}
+::: {.cert-title}
+Industry Management Certificate
+:::
+::: {.cert-org}
+University of São Paulo (USP), Brazil
+:::
+::: {.cert-year}
+Completed · Business fundamentals for professionals transitioning into management roles
+:::
+:::
+:::
+
+::: {.cert-card}
+::: {.cert-icon}
+🎓
+:::
+::: {}
+::: {.cert-title}
+MBA — AI & Machine Learning Leadership *(in progress)*
+:::
+::: {.cert-org}
+University Canada West, Vancouver, BC
+:::
+::: {.cert-year}
+Expected 2026 · Strategy, data analytics, AI applications, and organizational leadership
+:::
+:::
+:::
+
+::: {.cert-card}
+::: {.cert-icon}
+🥗
+:::
+::: {}
+::: {.cert-title}
+Bachelor of Science in Nutrition
+:::
+::: {.cert-org}
+Centro Universitário São Camilo, São Paulo, Brazil
+:::
+::: {.cert-year}
+Graduated · Clinical nutrition, dietetics, public health nutrition, and food science
+:::
+:::
+:::
+
+::: {.cert-card}
+::: {.cert-icon}
+🔬
+:::
+::: {}
+::: {.cert-title}
+Diploma in Food Technology
+:::
+::: {.cert-org}
+UNICAMP — Universidade Estadual de Campinas, Brazil
+:::
+::: {.cert-year}
+Graduated · Food processing, safety systems, and quality assurance
+:::
+:::
+:::
+
+---
+
+## Languages
+
+::: {.lang-grid}
+
+::: {.lang-card}
+::: {.lang-name}
+🇧🇷 Portuguese
+:::
+::: {.lang-level}
+Native Speaker
+:::
+::: {.lang-dots}
+[●]{.lang-dot .filled}[●]{.lang-dot .filled}[●]{.lang-dot .filled}[●]{.lang-dot .filled}[●]{.lang-dot .filled}
+:::
+:::
+
+::: {.lang-card}
+::: {.lang-name}
+🇨🇦 English
+:::
+::: {.lang-level}
+Advanced (C1)
+:::
+::: {.lang-dots}
+[●]{.lang-dot .filled}[●]{.lang-dot .filled}[●]{.lang-dot .filled}[●]{.lang-dot .filled}[●]{.lang-dot style="background:var(--border);"}
+:::
+:::
+
+::: {.lang-card}
+::: {.lang-name}
+🇪🇸 Spanish
+:::
+::: {.lang-level}
+Basic (A2)
+:::
+::: {.lang-dots}
+[●]{.lang-dot .filled}[●]{.lang-dot .filled}[●]{.lang-dot style="background:var(--border);"}[●]{.lang-dot style="background:var(--border);"}[●]{.lang-dot style="background:var(--border);"}
+:::
+:::
+
+:::
+---
+

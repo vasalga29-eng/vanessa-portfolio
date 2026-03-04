@@ -1,0 +1,98 @@
+---
+title: ""
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    title-block-banner: false
+---
+
+::: {.page-hero}
+# Projects 
+
+[Signature work that demonstrates the intersection of nutrition science, operations, and education.]{.page-subtitle}
+:::
+
+::: {.content-area}
+
+::: {style="margin-bottom:2rem;color:var(--mid);font-size:0.97rem;max-width:680px;"}
+Each project below reflects a deliberate effort to solve a real-world challenge — whether improving athlete performance, supporting vulnerable populations, or advancing nutrition care in community settings.
+:::
+
+---
+
+## Featured Projects
+
+::: {.projects-grid}
+
+::: {.project-card}
+::: {.project-card-header style="background:linear-gradient(90deg,var(--terra),var(--terra-light));"}
+:::
+::: {.project-card-body}
+[Sports Nutrition & Education]{.project-tag}
+### Gymnast Pre-Competition Nutrition Workshop
+
+A structured educational program designed to equip competitive gymnasts with the nutritional knowledge required to optimise training and competition performance. The workshop addressed a critical gap: many young athletes were training on empty calories or inadequate fuelling strategies, leading to performance dips and recovery issues.
+
+**Key outcomes:**
+- Delivered to gymnasts aged 12–18 in Louveira, SP, Brazil
+- Covered glycogen loading, hydration, and meal timing relative to competition schedules
+- Partnered with coaches to align dietary guidance with training periodisation plans
+- Produced a take-home reference card athletes could use independently
+
+**Approach:** Used interactive demonstrations, food models, and Q&A sessions to make evidence-based nutrition approachable for young athletes and their families.
+:::
+::: {.project-card-footer}
+📅 July 2023 &nbsp;·&nbsp; 📍 Louveira, SP, Brazil &nbsp;·&nbsp; 🏷 Clinical · Education · Sports
+:::
+:::
+
+::: {.project-card}
+::: {.project-card-header style="background:linear-gradient(90deg,var(--sage-dark),var(--sage));"}
+:::
+::: {.project-card-body}
+[Clinical Nutrition · Neonatal Care]{.project-tag}
+### Human Milk Bank — Hospital Practicum
+
+A clinical immersion in one of the most specialised areas of nutrition care: supporting neonatal patients and new mothers through evidence-based human milk banking. This practicum at Hospital Geral Vila Penteado placed me at the intersection of clinical science, food safety, and compassionate patient support.
+
+**Key outcomes:**
+- Managed the full milk banking lifecycle: collection, pasteurisation, quality checks, and NICU delivery
+- Provided direct breastfeeding education and emotional support to postpartum mothers
+- Applied food safety protocols (temperature control, labelling, contamination prevention) in a critical clinical environment
+- Gained understanding of neonatal nutrition needs and the long-term health outcomes tied to human milk feeding
+
+**Approach:** Collaborated with a multidisciplinary team including neonatologists, nurses, and social workers, ensuring each mother received personalised, evidence-based guidance.
+:::
+::: {.project-card-footer}
+📅 2009 (3 months) &nbsp;·&nbsp; 📍 São Paulo, Brazil &nbsp;·&nbsp; 🏷 Clinical · NICU · Food Safety
+:::
+:::
+
+::: {.project-card style="grid-column: 1 / -1;"}
+::: {.project-card-header style="background:linear-gradient(90deg,var(--sage),var(--sage-light));"}
+:::
+::: {.project-card-body}
+[Community Health · Clinical]{.project-tag}
+### Clinical Nutrition for Underserved Populations
+
+Delivered nutrition assessment and counselling services to low-income community members through São Camilo University's community school clinic. This project addressed the gap in access to professional nutrition care for populations who could not otherwise afford it.
+
+**Key outcomes:**
+- Conducted anthropometric assessments and bioimpedance analyses for 40+ patients
+- Developed personalised nutritional care plans addressing chronic conditions, malnutrition, and weight management
+- Educated patients on affordable, culturally appropriate dietary changes
+- Contributed to a team report documenting community nutrition patterns and barriers to healthy eating
+
+**Approach:** Used motivational interviewing techniques and culturally sensitive communication to build trust and support long-term dietary behaviour change.
+:::
+::: {.project-card-footer}
+📅 2009 (3 months) &nbsp;·&nbsp; 📍 São Paulo, Brazil &nbsp;·&nbsp; 🏷 Community · Clinical · Equity
+:::
+:::
+
+:::
+
+:::

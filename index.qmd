@@ -1,0 +1,223 @@
+---
+title: ""
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    title-block-banner: false
+---
+
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--                    HERO SECTION                       -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
+::: {.hero}
+::: {.hero-text}
+
+[Nutrition · Food Service · MBA Candidate]{.hero-eyebrow}
+
+[Vanessa]{.hero-name}  
+[Santos Salgado Almeida Marques]{.hero-name}
+
+[Empowering lifestyle change through nutrition and community care.]{.hero-tagline}
+
+::: {.hero-bio}
+I am a Food Service and Nutrition professional with **14 years of experience** spanning vending machine operations, food safety management, and client-centred nutrition care. Currently completing an **MBA in AI & Machine Learning Leadership** at University Canada West (2026), I bring clinical depth together with emerging business and technology acumen.
+
+Originally from Brazil, I now call **Coquitlam, BC** home — and I am passionate about making good nutrition accessible, safe, and sustainable for every community I serve.
+:::
+
+<a href="contact.html" class="download-btn">✉ Get in Touch</a>
+&nbsp;
+<a href="resume.html" class="download-btn" style="background:var(--sage-dark)">📄 View Résumé</a>
+
+:::
+
+::: {.hero-photo}
+![](Vanessa_nutritionist.jpg){style="width:220px;height:220px;border-radius:16px;object-fit:cover;object-position:top center;"}
+:::
+:::
+:::
+
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--                  CONTACT STRIP                        -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
+::: {.contact-strip}
+📧 [vasalga29\@gmail.com](mailto:vasalga29@gmail.com)
+[·]{.sep}
+💼 [LinkedIn](https://www.linkedin.com/in/vanessamarques-nutrition-operations)
+[·]{.sep}
+📍 Coquitlam, BC, Canada
+:::
+
+---
+
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--                   STATS ROW                           -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
+::: {.stats-row}
+::: {.stat-card}
+::: {.stat-number}
+14
+:::
+::: {.stat-label}
+Years of Experience
+:::
+:::
+
+::: {.stat-card}
+::: {.stat-number}
+3
+:::
+::: {.stat-label}
+Countries & Cultures Served
+:::
+:::
+
+::: {.stat-card}
+::: {.stat-number}
+3
+:::
+::: {.stat-label}
+Languages Spoken
+:::
+:::
+:::
+
+---
+
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--               ABOUT + EDUCATION (2-COL)               -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
+::: {.two-col}
+
+::: {.section-box}
+::: {.section-title-accent}
+::: {.title-dot}
+:::
+## About Me
+:::
+
+My career is a story of **bridging worlds** — the science of food and the science of business. It began in a hospital human milk bank in São Paulo, guiding new mothers through one of the most vulnerable moments of their lives. It continued through clinical nutrition in under-served communities, vending machine logistics at scale, and educational workshops for competitive gymnasts.
+
+Each role taught me that **nourishment is never just about nutrients** — it is about trust, access, systems, and leadership. That conviction is what drove me to pursue my MBA, where I am now learning to build the strategic and technological foundations that will let me scale my impact.
+
+My transition to Canada has added a new chapter: volunteering with the Cityreach Care Society food bank, contributing to food dignity in my new home community.
+
+*I would love to connect — whether you are a healthcare institution, food service operator, startup, or someone who shares a passion for nutrition and social good.*
+:::
+
+::: {.section-box}
+::: {.section-title-accent}
+::: {.title-dot}
+:::
+## Education
+:::
+
+**MBA — AI & Machine Learning Leadership**  
+*University Canada West, Vancouver, BC*  
+[Expected 2026]{style="font-family:var(--font-mono);font-size:0.78rem;color:var(--terra);"}
+
+---
+
+**Bachelor of Science in Nutrition**  
+*Centro Universitário São Camilo, São Paulo, Brazil*  
+[Graduated]{style="font-family:var(--font-mono);font-size:0.78rem;color:var(--terra);"}
+
+---
+
+**Diploma in Food Technology**  
+*UNICAMP — Universidade Estadual de Campinas, Brazil*  
+[Graduated]{style="font-family:var(--font-mono);font-size:0.78rem;color:var(--terra);"}
+
+---
+
+### Continuing Education
+- Functional Sports Nutrition Certificate
+- Industry Management Certificate *(USP)*
+- FoodSafe Level 2 *(BC, Canada)*
+:::
+
+:::
+
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--               COMMUNITY & HIGHLIGHTS                  -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
+::: {.content-area}
+
+::: {.section-box}
+::: {.section-title-accent}
+::: {.title-dot}
+:::
+## Professional Highlights
+:::
+
+::: {.timeline}
+
+::: {.timeline-item}
+::: {.timeline-date}
+March 2026 – Present
+:::
+::: {.timeline-title}
+Volunteer — Healthiest Babies Possible Program
+:::
+::: {.timeline-org}
+Vancouver Coastal Health (VCH), BC
+:::
+::: {.timeline-body}
+Supporting a community nutrition program focused on maternal and infant health, helping vulnerable families access guidance and resources during pregnancy and early infancy.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+July 2025 – February 2026
+:::
+::: {.timeline-title}
+Food Bank Volunteer
+:::
+::: {.timeline-org}
+Cityreach Care Society, Coquitlam, BC
+:::
+::: {.timeline-body}
+Food sorting, quality checking, and distribution to community families in need. Applied food safety knowledge to ensure donated products met safe consumption standards.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+2021 - 2024
+:::
+::: {.timeline-title}
+Clinical Nutritionist — Independent Practice
+:::
+::: {.timeline-org}
+Brazil
+:::
+::: {.timeline-body}
+Provided personalised nutrition consultations across clinical, sports, and community settings. Developed individualised meal plans addressing chronic disease, athletic performance, weight management, and maternal/paediatric nutrition.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+2010 – 2018
+:::
+::: {.timeline-title}
+Operations Coordinator — Automatic Vending Machines
+:::
+::: {.timeline-org}
+Private Sector, São Paulo State, Brazil
+:::
+::: {.timeline-body}
+Managed end-to-end operations of a multi-location vending machine network, overseeing inventory, supplier negotiations, quality compliance, and HACCP-aligned food safety protocols.
+:::
+:::
+
+:::

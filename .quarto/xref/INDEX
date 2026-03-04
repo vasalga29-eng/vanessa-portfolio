@@ -1,0 +1,23 @@
+{
+  "resume.qmd": {
+    "resume.html": "cb2e9e48"
+  },
+  "contact.qmd": {
+    "contact.html": "2cd9e2c9"
+  },
+  "DEPLOY.md": {
+    "DEPLOY.html": "40051f68"
+  },
+  "index.qmd": {
+    "index.html": "b553b0fa"
+  },
+  "projects.qmd": {
+    "projects.html": "63e04ec8"
+  },
+  "reflection.qmd": {
+    "reflection.html": "37cdc895"
+  },
+  "skills.qmd": {
+    "skills.html": "2b9e100e"
+  }
+}

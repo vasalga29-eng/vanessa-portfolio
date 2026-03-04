@@ -1,0 +1,119 @@
+---
+title: ""
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    title-block-banner: false
+---
+
+::: {.page-hero}
+# Contact
+
+[I am always open to conversations about nutrition, food safety, operations, or collaboration.]{.page-subtitle}
+:::
+
+::: {.content-area}
+
+::: {.contact-grid}
+
+::: {.contact-card}
+### Get in Touch
+
+::: {.contact-item-row}
+::: {.contact-icon}
+📧
+:::
+::: {}
+::: {.contact-label}
+Email
+:::
+::: {.contact-value}
+[vasalga29\@gmail.com](mailto:vasalga29@gmail.com)
+:::
+:::
+:::
+
+::: {.contact-item-row}
+::: {.contact-icon}
+💼
+:::
+::: {}
+::: {.contact-label}
+LinkedIn
+:::
+::: {.contact-value}
+[linkedin.com/in/vanessamarques-nutrition-operations](https://www.linkedin.com/in/vanessamarques-nutrition-operations)
+:::
+:::
+:::
+
+::: {.contact-item-row}
+::: {.contact-icon}
+📍
+:::
+::: {}
+::: {.contact-label}
+Location
+:::
+::: {.contact-value}
+Coquitlam, BC, Canada
+:::
+:::
+:::
+
+::: {.contact-item-row}
+::: {.contact-icon}
+🌐
+:::
+::: {}
+::: {.contact-label}
+Languages
+:::
+::: {.contact-value}
+Portuguese · English · Spanish
+:::
+:::
+:::
+
+::: {.availability-badge}
+::: {.avail-dot}
+:::
+Open to Opportunities
+:::
+:::
+
+::: {.contact-card}
+### What I'm Looking For
+
+I am open to roles and partnerships in the following areas:
+
+**In Canada (BC):**
+- Food service operations management
+- Nutrition consulting or dietetic assistant roles
+- Food safety coordination and compliance
+- Community nutrition programs
+
+**Professionally / Remotely:**
+- Nutrition content writing and education
+- Sports nutrition consulting
+
+
+**Collaborations:**
+- Healthcare organisations seeking nutrition expertise
+- Startups at the intersection of food, tech, and health
+- MBA peers interested in food systems, operations, or AI
+
+---
+
+::: {style="font-size:0.88rem;color:var(--mid);font-style:italic;margin-top:0.5rem;"}
+I typically respond within 1–2 business days. I look forward to connecting!
+:::
+:::
+
+:::
+
+---
+

@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Vanessa Marques"
+  favicon: ""
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Skills"
+        href: skills.qmd
+      - text: "Contact"
+        href: contact.qmd
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/vanessamarques-nutrition-operations
+        text: LinkedIn
+
+  page-footer:
+    center: "© 2026 Vanessa Marques | Nutrition & Food Service Professional | MBA Candidate"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    title-block-banner: false

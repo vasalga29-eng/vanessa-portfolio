@@ -71,7 +71,7 @@ Years of Experience
 
 ::: {.stat-card}
 ::: {.stat-number}
-Multiple
+4
 :::
 ::: {.stat-label}
 Certifications & Credentials

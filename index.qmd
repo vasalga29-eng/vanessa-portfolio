@@ -71,10 +71,10 @@ Years of Experience
 
 ::: {.stat-card}
 ::: {.stat-number}
-3
+Multiple
 :::
 ::: {.stat-label}
-Countries & Cultures Served
+Certifications & Credentials
 :::
 :::
 

@@ -237,7 +237,7 @@ Completed
 | **Food Safety & Operations** | HACCP, Regulatory Compliance, Risk Management, Quality Assurance, FoodSafe L2 |
 | **Nutrition Science** | Clinical Assessment, Sports Nutrition, NICU Support, Breastfeeding Guidance, Allergen Management |
 | **Business & Leadership** | AI Integration Strategy, Operations Management, Staff Training, Performance Metrics |
-| **Languages** | Portuguese (Native), English (Advanced), Spanish (Basic) |
+| **Languages** | Portuguese (Native), English, Spanish |
 
 :::
 :::

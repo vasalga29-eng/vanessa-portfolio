@@ -470,7 +470,7 @@ hr {
 /* ── Skills ─────────────────────────────────────────── */
 .skills-grid {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 1fr 1fr;
   gap: 1.5rem;
   margin-bottom: 2rem;
 }
@@ -503,11 +503,11 @@ hr {
   background: var(--cream);
   border: 1px solid var(--border);
   color: var(--charcoal);
-  font-size: 0.82rem;
-  padding: 0.3rem 0.75rem;
+  font-size: 0.75rem;
+  padding: 0.25rem 0.6rem;
   border-radius: 20px;
   font-weight: 400;
-  white-space: nowrap;
+}
 
 }
 

@@ -510,15 +510,6 @@ hr {
   white-space: nowrap;
 
 }
-.skill-tag {
-  background: var(--cream);
-  border: 1px solid var(--border);
-  color: var(--charcoal);
-  font-size: 0.82rem;
-  padding: 0.3rem 0.75rem;
-  border-radius: 20px;
-  font-weight: 400;
-}
 
 .cert-card {
   background: var(--white);

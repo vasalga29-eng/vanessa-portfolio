@@ -18,7 +18,7 @@ format:
 ::: {.content-area}
 
 ::: {style="margin-bottom:2rem;color:var(--mid);font-size:0.97rem;max-width:680px;"}
-Each project below reflects a deliberate effort to solve a real-world challenge — whether improving athlete performance, supporting vulnerable populations, or advancing nutrition care in community settings.
+Each project below reflects a deliberate effort to solve a real-world challenge, whether improving athlete performance, supporting vulnerable populations, or advancing nutrition care in community settings.
 :::
 
 ---
